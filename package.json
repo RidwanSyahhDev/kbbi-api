@@ -1,7 +1,7 @@
 {
   "name": "open-api-kbbi",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "prepare-data.js",
   "scripts": {
     "dev": "wrangler dev",
     "deploy": "wrangler deploy",
